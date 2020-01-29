@@ -1,1 +1,1 @@
-# Anyone can contribute to sillygoose
+# Almost anyone can contribute to sillygoose
